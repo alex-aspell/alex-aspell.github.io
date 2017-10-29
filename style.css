@@ -2,3 +2,13 @@
   color:white;
   background-color:navy;
 }
+
+h1 {
+  padding: 5px;
+  margin: 5px;
+}
+
+h6 {
+  padding: 5px;
+  margin: 5px;
+}
