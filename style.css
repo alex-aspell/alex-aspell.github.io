@@ -6,8 +6,6 @@
 .header {
   color:white;
   background-color:navy;
-  position:fixed;
-  z-index: 10;
 }
 
 h1 {
