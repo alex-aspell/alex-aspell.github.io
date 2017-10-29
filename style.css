@@ -1,15 +1,19 @@
+* {
+  margin-left: 5px;
+}
+
 .header {
   color:white;
   background-color:navy;
 }
 
 h1 {
-  padding: 0px;
+  padding-bottom: 0px;
   margin: 0px;
 }
 
 h6 {
-  padding: 0px;
+  padding-top: 0px;
   margin: 0px;
 }
 
@@ -32,3 +36,8 @@ ul {
   padding: 5px;
   margin: 5px;
 }
+
+li {
+  padding-left: 10px;
+}
+  
