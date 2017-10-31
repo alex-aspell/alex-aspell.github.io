@@ -17,6 +17,10 @@ h6 {
   font-size; 12px;
 }
 
+img {
+  float:right;
+}
+
 h5 {
   padding: 2px;
   margin: 2px;
