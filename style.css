@@ -18,9 +18,9 @@ h6 {
 }
 
 img {
-  position: absolute;
-  margin-left: 350px;
-  margin-top: 0px;
+  position: relative;
+  margin-left: 400px;
+  margin-bottom: 50px;
 }
 
 h5 {
