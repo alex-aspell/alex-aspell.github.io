@@ -20,7 +20,7 @@ h6 {
 img {
   float: right;
   position: absolute;
-  margin-left: 400;
+  left: 400px;
 }
 
 h5 {
