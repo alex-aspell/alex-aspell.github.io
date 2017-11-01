@@ -18,8 +18,9 @@ h6 {
 }
 
 img {
-  float:right;
   position: relative;
+  margin-left: 200px;
+  margin-top: 0px;
 }
 
 h5 {
