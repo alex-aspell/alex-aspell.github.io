@@ -41,8 +41,6 @@ h4 {
   font size: 18px; 
 }
 
-h4.cuphd { 
-  text-align: right;
 }
 
 ul {
@@ -57,7 +55,3 @@ li {
 .section {
   border-top: solid 1px;
   {
-
-.id {
-  text-align: right;
-}
