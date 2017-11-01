@@ -18,8 +18,8 @@ h6 {
 }
 
 img {
-  position: relative;
-  margin-left: 300px;
+  position: absolute;
+  margin-left: 250px;
   margin-top: 0px;
 }
 
