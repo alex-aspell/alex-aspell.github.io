@@ -55,6 +55,5 @@ li {
   {
 
 .date {
-  position: relative;
-  float: right;
+  text-align: right; 
     }
