@@ -335,6 +335,10 @@ a {
   color: #2EC4B6;
 }
 
+.github-link {
+  margin-bottom: 3rem;
+}
+
 a:focus, a:hover, a:active {
   color: #2EC4B6;
 }
