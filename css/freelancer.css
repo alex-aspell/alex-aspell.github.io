@@ -44,11 +44,11 @@ hr.star-light:after {
 }
 
 hr.star-dark {
-  border-color: #2C3E50;
+  border-color: #4484CE;
 }
 
 hr.star-dark:after {
-  color: #2C3E50;
+  color: #4484CE;
   background-color: white;
 }
 
@@ -323,12 +323,12 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2C3E50;
+  background-color: #E71D36;
   color: #fff;
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: #011627;
 }
 
 a {
@@ -344,15 +344,15 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #E20000 !important;
+  background-color: #2EC4B6 !important;
 }
 
 .bg-secondary {
-  background-color: #2C3E50 !important;
+  background-color: #011627 !important;
 }
 
 .text-primary {
-  color: #E20000 !important;
+  color: #2EC4B6 !important;
 }
 
 .text-secondary {
