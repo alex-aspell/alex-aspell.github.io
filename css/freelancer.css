@@ -339,6 +339,11 @@ a {
   margin-bottom: 3rem;
 }
 
+.github-main {
+  font-weight: 700;
+  font-family: 'Montserrat';
+}
+
 a:focus, a:hover, a:active {
   color: #2EC4B6;
 }
